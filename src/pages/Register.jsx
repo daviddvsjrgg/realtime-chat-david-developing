@@ -5,9 +5,9 @@ return (
         <div className='formContainer'>
             <div className='formWrapper'>
                 <form action="">
-                    <input type="text" placeholder='display name' />
-                    <input type="email" />
-                    <input type="password" />
+                    <input type="text" placeholder='display name'/>
+                    <input type="email" placeholder='email'/>
+                    <input type="password" placeholder='password'/>
                     <input type="file" />
                 </form>
             </div>
